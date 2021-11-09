@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-rath&count_private=true&theme=dark)
 <!--
 **m-rath/m-rath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
