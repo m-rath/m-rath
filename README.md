@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 If you recruit talent to learn fast and work hard, please consider me, <markporath@gmail.com>.
+
+- Background in cognitive science and statistics -- fascination with structures that learn;
+- Creative talent to solve any problem -- Computer Vision, Natural Language Processing, ML Ops & more;
+- Consistent success all over the world -- no context is too foreign or tough.
+- Facilitating wins is what I do -- listen, learn, rally & build.
 <!-- ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-rath&count_private=true&theme=dark) -->
 <!--
 **m-rath/m-rath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
