@@ -1,4 +1,6 @@
-### 👋 Do you recruit talent to *learn fast* and *work hard*? Look no further: <markporath@gmail.com>
+### 👋 Ready to make the most of your organization's data? For professional, trustworthy expertise from the most talented and creative bunch around, contact [SpringML](https://cloud.withgoogle.com/partners/detail/?id=springml&hl=en-US). We learn fast, work hard, and always maintain razor-sharp clarity on the client's best interests.
+
+[Mark Porath](mark.porath@springml.com) is an Associate Data Engineer at [SpringML](https://www.springml.com/).
 
 - Background in cognitive science and statistics -- fascination with structures that learn.
 - Creative talent to solve any problem -- Computer Vision, Natural Language Processing, ML Ops & more.
