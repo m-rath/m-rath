@@ -1,6 +1,8 @@
-### 👋 Ready to make the most of your organization's data? For professional, trustworthy expertise from the most talented and creative bunch around, contact [SpringML](https://cloud.withgoogle.com/partners/detail/?id=springml&hl=en-US). We learn fast, work hard, and always maintain razor-sharp clarity on the client's best interests.
+### 👋 Ready to make the most of your organization's data?
 
-[Mark Porath](mark.porath@springml.com) is an Associate Data Engineer at [SpringML](https://www.springml.com/).
+#### For professional, trustworthy input from the most talented and creative bunch around, look to [SpringML](https://cloud.withgoogle.com/partners/detail/?id=springml&hl=en-US). We learn fast, work hard and maintain laser-like focus on the client's best interests. Communicate with us and rally around the right ideas, the leading-edge tech stack, the smartest cloud deployment. SpringML is a Google Partner and Award Winner, and we love a new challenge.
+
+[Mark Porath](mailto:mark.porath@springml.com) is an Associate Data Engineer at [SpringML](https://www.springml.com/).
 
 - Background in cognitive science and statistics -- fascination with structures that learn.
 - Creative talent to solve any problem -- Computer Vision, Natural Language Processing, ML Ops & more.
