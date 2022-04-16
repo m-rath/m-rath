@@ -1,6 +1,6 @@
 ### 👋 Ready to activate your data?
 
-#### For professional, trustworthy input from the most talented and creative bunch around, look to [SpringML](https://cloud.withgoogle.com/partners/detail/?id=springml&hl=en-US). We learn fast, work hard and maintain laser-like focus on the client's best interests. Communicate with us and rally around the right ideas, the leading-edge tech stack, the smartest cloud deployment. SpringML is a Google Partner and Award Winner, and we love a new challenge.
+#### For professional, trustworthy input from the most talented and creative bunch around, look to [SpringML](https://cloud.withgoogle.com/partners/detail/?id=springml&hl=en-US). We learn fast, work hard and maintain laser-like focus on the client's goals. Let's rally around the right ideas, embrace the leading-edge tech stack, and deploy the smartest cloud solution. SpringML is a Google Partner and Award Winner, and we love a new challenge.
 
 [Mark Porath](mailto:mark.porath@springml.com) is a Data Engineer at [SpringML](https://www.springml.com/) <br>
 and holds top-level certifications from Google Cloud: [Professional Data Engineer and Professional Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath).
