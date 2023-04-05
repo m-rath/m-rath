@@ -1,14 +1,8 @@
-### 👋 Ready to activate your data?
-
-#### For professional, trustworthy input from the most talented and creative bunch around, look to [SpringML](https://cloud.withgoogle.com/partners/detail/?id=springml&hl=en-US). We learn fast, work hard and maintain laser-like focus on the client's goals. Let's rally around the right ideas, embrace the leading-edge tech stack, and deploy the smartest cloud solution. SpringML is a Google Partner and Award Winner, and we love a new challenge.
-
-[Mark Porath](mailto:mark.porath@springml.com) is a Data Engineer at [SpringML](https://www.springml.com/) <br>
-and holds top-level certifications from Google Cloud: [Professional Data Engineer, Professional Machine Learning Engineer, Professional Cloud Architect](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath).
-
-- Background in cognitive science and statistics -- fascination with structures that learn.
-- Creative talent to solve any problem -- Computer Vision, Natural Language Processing, ML Ops & more.
-- Consistent success all over the world -- no context is too foreign.
-- Facilitating wins is what I do -- exemplary communication skills.
+[Mark Porath](mailto:m.rath.oh@gmail.com) has the expertise you need:
+- [Pro Data Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
+- [Pro Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
+- [Pro Cloud Architect](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
+- [Terraform Associate](https://www.credly.com/badges/2dc817ab-85a6-4525-a525-95e4634b3248)
 
 ### World-class creativity
 > *Mark was the most curious and creative member of our student cohort. He consistently offered new and interesting ideas for the use of technological tools in order solve the problems at hand. He had a deep understanding of our difficult course material, and was able to convey it in simple terms.* -- Teammate, when Mark's role was ML Ops <br><br>
