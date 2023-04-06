@@ -1,4 +1,4 @@
-[Mark Porath](mailto:m.rath.oh@gmail.com) has the expertise you need:
+[Mark Porath](mailto:m.rath.oh@gmail.com)'s active certifications:
 - [Pro Data Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
 - [Pro Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
 - [Pro Cloud Architect](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
