@@ -1,8 +1,8 @@
-[Mark Porath](mailto:m.rath.oh@gmail.com)'s active certifications:
-- [Pro Data Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
-- [Pro Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
-- [Pro Cloud Architect](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
-- [Terraform Associate](https://www.credly.com/badges/2dc817ab-85a6-4525-a525-95e4634b3248)
+[Mark Porath](https://www.linkedin.com/in/mark-porath)'s active certifications:
+- [Google Cloud Professional Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
+- [Google Cloud Professional Cloud Architect](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
+- [Google Cloud Professional Data Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
+- [Hashicorp Terraform Associate](https://www.credly.com/badges/2dc817ab-85a6-4525-a525-95e4634b3248)
 
 ### World-class creativity
 > *Mark was the most curious and creative member of our student cohort. He consistently offered new and interesting ideas for the use of technological tools in order solve the problems at hand. He had a deep understanding of our difficult course material, and was able to convey it in simple terms.* -- Teammate, when Mark's role was ML Ops <br><br>
