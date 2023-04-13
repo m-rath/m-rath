@@ -1,4 +1,4 @@
-[Mark Porath](https://www.linkedin.com/in/mark-porath)'s active certifications:
+Active certifications for [Mark Porath](https://www.linkedin.com/in/mark-porath):
 - [Google Cloud Professional Machine Learning Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
 - [Google Cloud Professional Cloud Architect](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
 - [Google Cloud Professional Data Engineer](https://googlecloudcertified.credential.net/profile/1c4f1194b8357f40aeb20092e35457d9ad9cc46f?groups=68191&groups=205299&groups=69661&name=mark%20porath)
