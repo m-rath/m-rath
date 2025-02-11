@@ -1,4 +1,4 @@
-[Mark Porath](https://www.linkedin.com/in/mark-porath) holds 7 active [certifications](https://www.credly.com/users/mark-porath/badges):
+[Mark Porath](https://www.linkedin.com/in/mark-porath) has 7 [certifications](https://www.credly.com/users/mark-porath/badges):
 - Google Cloud Professional
   - Machine Learning Engineer, Data Engineer, Cloud Developer, Cloud Network Engineer, Cloud Security Engineer, Cloud Architect
 - Terraform Certified Associate
